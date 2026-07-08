@@ -1,2 +1,2 @@
-# one-strike-one-birds
+# one-strike-one-bird
 2026 generative AI project
